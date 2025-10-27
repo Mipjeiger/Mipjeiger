@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miftah Hadiyannoor</h1>
 <h3 align="center">Machine Learning / AI Engineer | MLOps Engineer</h3>
 
-<p align="center">
-  <a href="mailto:dianhinhin123@gmail.com"><img src="https://img.shields.io/badge/Email-dianhinhin123%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/miftah-hadiyannoor-535447248/"><img src="https://img.shields.io/badge/LinkedIn-Miftah%20Hadiyannoor-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -95,7 +90,6 @@ I love integrating **machine learning**, **DevOps tools**, and **real-time monit
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:dianhinhin123@gmail.com"><img src="https://img.shields.io/badge/Email-dianhinhin123%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/miftah-hadiyannoor-535447248/"><img src="https://img.shields.io/badge/LinkedIn-Miftah%20Hadiyannoor-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
