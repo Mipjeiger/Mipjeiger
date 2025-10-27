@@ -33,7 +33,7 @@ I used to integrate **machine learning**, **DevOps tools**, and **real-time moni
 
 ---
 
-### 🧩 Highlight Projects
+### 🧩 MLOps Projects
 
 #### 🩻 X-Ray Image Analysis (AI Imaging System)
 > Deep learning model using `.keras` (CNN) for X-ray classification  
