@@ -76,11 +76,7 @@ I love integrating **machine learning**, **DevOps tools**, and **real-time monit
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mifthahadiyannoor&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mifthahadiyannoor&theme=tokyonight" alt="streak" />
-</p>
+![Miftah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mipjeiger&theme=react-dark)
 
 
 ---
