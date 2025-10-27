@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Miftah Hadiyannoor 👋</h1>
 
 <p align="center">
-  <em>Fullstack Developer | Machine Learning Engineer | MLOps & AI Enthusiast</em>
+  <em>Machine Learning/AI Engineer | MLOps Engineer</em>
 </p>
 
 ---
