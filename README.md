@@ -77,7 +77,7 @@ I used to integrate **machine learning**, **DevOps tools**, and **real-time moni
 
 ### 📊 GitHub Stats
 ![Miftah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mipjeiger&theme=react-dark)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miftah_Hadiyannoor-blue?logo=linkedin)](https://linkedin.com/in/miftah-hadiyannoor-535447248)
 
 ---
 
