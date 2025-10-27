@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-I’m a passionate **Machine Learning / AI Engineer** and **MLOps Engineer** who focuses on building intelligent systems, data automation pipelines, and deploying scalable ML models.  
+I’m a **Machine Learning / AI Engineer** and **MLOps Engineer** who focuses on building intelligent systems, data automation pipelines, and deploying scalable ML models.  
 I love integrating **machine learning**, **DevOps tools**, and **real-time monitoring** to make data-driven systems truly production-ready.
 
 ---
