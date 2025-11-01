@@ -84,6 +84,7 @@ I used to integrate **machine learning**, **DevOps tools**, and **real-time moni
 
 ### 🚀 MLOps Project
 🔗 Project Link: github.com/Mipjeiger/MLOps
+
 This project implements a full MLOps pipeline integrating modern tools and best practices:
 🧠 Model: Pre-trained KNN (best_knear_model_ml.dill)
 🐳 Containerization: Docker & Docker Compose
