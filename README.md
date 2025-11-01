@@ -79,31 +79,7 @@ I used to integrate **machine learning**, **DevOps tools**, and **real-time moni
 #### 🧠 **Computer Vision**
 - X-ray image analysis project built with **Keras (.keras model)**.  
 - Integrated with **Airflow**, **Grafana**, and **Kubernetes** for inference tracking and observability.
-
----
-
-### 🚀 MLOps Project
-🔗 Project Link: github.com/Mipjeiger/MLOps
-
-This project implements a full MLOps pipeline integrating modern tools and best practices:
-🧠 Model: Pre-trained KNN (best_knear_model_ml.dill)
-🐳 Containerization: Docker & Docker Compose
-☸️ Orchestration: Kubernetes
-📊 Experiment Tracking: MLflow
-🏗️ IaC: Terraform
-⚙️ CI/CD: Jenkins
-🪶 Workflow Orchestration: Apache Airflow
-🔄 Data Pipeline: Dagster
-📈 Monitoring: Prometheus & Grafana
-💻 Frontend: React + Tailwind CSS
-🌀 GitOps: ArgoCD
-🧹 Code Quality: Pre-commit hooks
-📦 Packaging: Helm
-🧩 Pipeline Orchestration: Tekton
-🤖 CI/CD Integration: Prow
-🧭 Observability: OpenTelemetry & Jaeger
-⚡ Serverless: KNative
-
+- 
 ---
 
 ### 📊 GitHub Stats
